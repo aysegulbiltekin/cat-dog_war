@@ -1,2 +1,3 @@
-# cat-dog_war
-html,css  ve javascript kullanılarak tasarlanmış basit bir kedi köpek savaşı oyunu
+Cat-Dog War
+😼 VS 🐶
+A simple cat and dog fighting game designed using Html, Css and Javascript.
